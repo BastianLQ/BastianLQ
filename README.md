@@ -3,7 +3,7 @@
 </div>
 <br>
 <p>
-¡Hola!, mi nombre es Bastián López, graduado en análisis de datos y actualmente cursando estudios en Data Science en un instituto profesional. Tengo un fuerte interés en crear visualizaciones impactantes y en extraer información valiosa a partir de datos. Poseo habilidades en Google Sheets, Excel, Python, SQL y Tableau, además de conocimientos en inteligencia de negocios y marketing digital, los cuales he aplicado en diversos proyectos que forman parte de mi portafolio.
+¡Hola!, mi nombre es Bastián López, **graduado en análisis de datos y actualmente cursando estudios en Data Science** en un instituto profesional. Tengo un fuerte interés en crear visualizaciones impactantes y en extraer información valiosa a partir de datos. Poseo habilidades en Google Sheets, Excel, Python, SQL y Tableau, además de conocimientos en inteligencia de negocios y marketing digital, los cuales he aplicado en diversos proyectos que forman parte de mi portafolio.
 
 Actualmente, trabajo en el sector de telecomunicaciones, lo que me ha permitido desarrollar una comprensión profunda de los datos y sus aplicaciones en la industria. Sin embargo, me siento preparado y entusiasmado para dar el siguiente paso en mi carrera y asumir mi primer rol oficial como analista de datos.
 
