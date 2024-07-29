@@ -21,4 +21,4 @@ Mi objetivo es aportar mis conocimientos y habilidades para ayudar a las organiz
 
 <h3>Contacto</h3>
 
-[<img src='gmail.webp' alt='gmail' height='40'>](https://bastiandavidlopez@gmail.com) [<img src='linkedin.webp' alt='linkedin' height='40'>](https://www.linkedin.com/in/basti%C3%A1n-l%C3%B3pez-data-analyst/)
+[<img src='gmail.webp' alt='gmail' height='40'>](bastiandavidlopez@gmail.com) [<img src='linkedin.webp' alt='linkedin' height='40'>](https://www.linkedin.com/in/basti%C3%A1n-l%C3%B3pez-data-analyst/)
