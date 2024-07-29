@@ -17,5 +17,5 @@ Mi objetivo es aportar mis conocimientos y habilidades para ayudar a las organiz
 
 <h3>Actividad del repostorio</h3>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BastianLQ&theme=github&custom_title=Contribuciones%20del%20último%20mes&hide_border=true&bg_color=0C0C0C&line=E6B7B6&point=F8895E)](https://github.com/ashutosh00710/github-readme-activity-graph) 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BastianLQ&theme=github&custom_title=Contribuciones%20del%20último%20mes&hide_border=true&bg_color=0C0C0C&line=6E474A&point=F8895E)](https://github.com/ashutosh00710/github-readme-activity-graph) 
 
