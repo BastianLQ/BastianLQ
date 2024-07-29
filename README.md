@@ -2,6 +2,7 @@
   <img decoding="async" src="Banner.jpg" width="auto"/>
 </div>
 <br>
+<h3>Analista de datos junior</h3>
 <p>
 ¡Hola!, mi nombre es Bastián López, <b>graduado en análisis de datos y actualmente cursando estudios en Data Science</b> en un instituto profesional. Tengo un fuerte interés en crear visualizaciones impactantes y en extraer información valiosa a partir de datos. Poseo habilidades en Google Sheets, Excel, Python, SQL y Tableau, además de conocimientos en inteligencia de negocios y marketing digital, los cuales he aplicado en diversos proyectos que forman parte de mi portafolio.
 
