@@ -10,7 +10,7 @@ Mi objetivo es aportar mis conocimientos y habilidades para ayudar a las organiz
 </p>
 <h3>Portafolio</h3>
 <p>
-En esta perfil están todos los proyectos de análisis de mi portafolio, la mayoría están en formato notebook (informe de análisis de datos).
+En este perfil están todos los proyectos de análisis de mi portafolio, la mayoría están en formato notebook (informe de análisis de datos).
 </p>
 <h3>Tecnologías</h3>
 
