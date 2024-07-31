@@ -19,6 +19,8 @@ Mi objetivo es aportar mis conocimientos y habilidades para ayudar a las organiz
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BastianLQ&theme=github&custom_title=Contribuciones%20del%20último%20mes&hide_border=true&bg_color=0C0C0C&line=6E474A&point=F8895E)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lauragift21" alt="Gift's LangStat" />
+
 <h3>Contacto</h3>
 
 [<img src='gmail.webp' alt='gmail' height='40'>](mailto:bastiandavidlopez@gmail.com) [<img src='linkedin.webp' alt='linkedin' height='40'>](https://www.linkedin.com/in/basti%C3%A1n-l%C3%B3pez-data-analyst/)
