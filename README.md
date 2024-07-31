@@ -15,9 +15,9 @@ Mi objetivo es aportar mis conocimientos y habilidades para ayudar a las organiz
 
 <img src='226051.webp' alt='python' height='40'> <img src='pandas.png' alt='pandas' height='40'> <img src='numpy.png' alt='numpy' height='40'> <img src='scipy.png' alt='scipy' height='40'> <img src='sql.png' alt='sql' height='40'>  <img src='gsheets.png' alt='google sheets' height='40'> <img src='matplotlib.png' alt='matplotlib' height='40'> <img src='plotly.jpg' alt='plotly' height='40'> <img src='seaborn.png' alt='seaborn' height='40'> <img src='jupyter.png' alt='jupyter' height='40'> <img src='tableau.png' alt='tableau' height='40'>
 
-<!-- <h3>Actividad del repostorio</h3>
+<h3>Actividad del repostorio</h3>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BastianLQ&theme=github&custom_title=Contribuciones%20del%20último%20mes&hide_border=true&bg_color=0C0C0C&line=6E474A&point=F8895E)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BastianLQ&theme=github&custom_title=Contribuciones%20del%20último%20mes&hide_border=true&bg_color=0C0C0C&line=6E474A&point=F8895E)](https://github.com/ashutosh00710/github-readme-activity-graph) 
 
 <h3>Contacto</h3>
 
