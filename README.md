@@ -14,7 +14,7 @@ Actualmente me encuentro trabajando en proyectos para mi portafolio y estudiando
   <p>
 En este perfil están todos los proyectos de análisis de mi portafolio, la mayoría están en formato notebook (informe de análisis de datos).
   </p>
-<h3>Tecnologías</h3>
+<h3>Tecnologías dominadas</h3>
 
 <img src='226051.webp' alt='python' height='40'> <img src='pandas.png' alt='pandas' height='40'> <img src='numpy.png' alt='numpy' height='40'> <img src='scipy.png' alt='scipy' height='40'> <img src='sql.png' alt='sql' height='40'>  <img src='gsheets.png' alt='google sheets' height='40'> <img src='matplotlib.png' alt='matplotlib' height='40'> <img src='plotly.jpg' alt='plotly' height='40'> <img src='seaborn.png' alt='seaborn' height='40'> <img src='jupyter.png' alt='jupyter' height='40'> <img src='tableau.png' alt='tableau' height='40'>
 
