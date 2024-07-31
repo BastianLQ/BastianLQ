@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img decoding="async" src="Banner.jpg" width="auto"/>
+  <img decoding="async" src="banner.jpg" width="auto"/>
 </div>
 <br>
 <h3>Analista de datos junior</h3>
