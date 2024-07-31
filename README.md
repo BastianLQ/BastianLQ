@@ -11,8 +11,6 @@ Mi objetivo es aportar mis conocimientos y habilidades para ayudar a las organiz
 <h3>Portafolio</h3>
 <p>
 En esta perfil están todos los proyectos de análisis de mi portafolio, la mayoría están en formato notebook (informe de análisis de datos).
-
-Mi objetivo es aportar mis conocimientos y habilidades para ayudar a las organizaciones a tomar decisiones informadas y estratégicas basadas en datos. Estoy en constante formación, siempre en busca de nuevos desafíos y oportunidades para crecer profesionalmente en el apasionante mundo del análisis de datos.
 </p>
 <h3>Tecnologías</h3>
 
