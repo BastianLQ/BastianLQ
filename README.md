@@ -21,6 +21,7 @@ En este perfil están todos los proyectos de análisis de mi portafolio, la mayo
 <h3>Racha actual de contribuciones</h3>
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Bastian%20LQ&theme=transparent&hide_border=true&locale=es&mode=weekly&card_width=460&card_height=170&currStreakLabel=000000&sideNums=000000&dates=000000&currStreakNum=000000&fire=39D353&stroke=000000&excludeDaysLabel=000000&sideLabels=000000&ring=39D353&background=E4E2DD" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 <h3>Contacto</h3>
 
