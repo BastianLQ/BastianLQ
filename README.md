@@ -18,10 +18,9 @@ En este perfil están todos los proyectos de análisis de mi portafolio, la mayo
 
 <img src='226051.webp' alt='python' height='40'> <img src='pandas.png' alt='pandas' height='40'> <img src='numpy.png' alt='numpy' height='40'> <img src='scipy.png' alt='scipy' height='40'> <img src='sql.png' alt='sql' height='40'>  <img src='gsheets.png' alt='google sheets' height='40'> <img src='matplotlib.png' alt='matplotlib' height='40'> <img src='plotly.jpg' alt='plotly' height='40'> <img src='seaborn.png' alt='seaborn' height='40'> <img src='jupyter.png' alt='jupyter' height='40'> <img src='tableau.png' alt='tableau' height='40'>
 
-<h3>Racha actual de contribuciones</h3>
+<!--- <h3>Racha actual de contribuciones</h3>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Bastian%20LQ&theme=transparent&hide_border=true&locale=es&mode=weekly&card_width=460&card_height=170&currStreakLabel=000000&sideNums=000000&dates=000000&currStreakNum=000000&fire=39D353&stroke=000000&excludeDaysLabel=000000&sideLabels=000000&ring=39D353&background=E4E2DD" alt="GitHub Streak" /></a>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Bastian%20LQ&theme=transparent&hide_border=true&locale=es&mode=weekly&card_width=460&card_height=170&currStreakLabel=000000&sideNums=000000&dates=000000&currStreakNum=000000&fire=39D353&stroke=000000&excludeDaysLabel=000000&sideLabels=000000&ring=39D353&background=E4E2DD" alt="GitHub Streak" /></a> --->
 
 <h3>Contacto</h3>
 
