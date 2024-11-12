@@ -12,7 +12,7 @@ Actualmente me encuentro trabajando en proyectos para mi portafolio y estudiando
 </p>
 <h3>Portafolio</h3>
   <p>
-En este perfil están todos los proyectos de análisis de mi portafolio, la mayoría están en formato notebook (informe de análisis de datos), puedes ver <a href="https://public.tableau.com/app/profile/basti.n.l.pez/vizzes"> aquí </a> los dashboards que he construído en Tableau.
+En este perfil están todos los proyectos de análisis de mi portafolio, la mayoría están en formato notebook (informe de análisis de datos), puedes ver <a href="https://public.tableau.com/app/profile/basti.n.l.pez/vizzes" target="_blank"> aquí </a> los dashboards que he construído en Tableau.
   </p>
 <h3>Tecnologías dominadas</h3>
 
