@@ -8,7 +8,7 @@
   </p>
 <h3>Desarrollo profesional</h3>
   <p>
-Actualmente me encuentro trabajando en proyectos para mi portafolio y adquiriendo nuevos conocimientos sobre <b>Machine Learning y plataormas Cloud</b>. Proximamente me gustaría aprender <b>Spark, R, Power Bi y Shiny</b> para mejorar mis informes.
+Actualmente me encuentro trabajando en proyectos para mi portafolio y adquiriendo nuevos conocimientos sobre <b>Machine Learning y Plataformas Cloud</b>. Proximamente me gustaría aprender <b>Spark, R, Power Bi y Shiny</b> para mejorar mis informes.
 </p>
 <h3>Portafolio</h3>
   <p>
