@@ -21,10 +21,10 @@ En este perfil están todos los proyectos de análisis de mi portafolio, la mayo
 <h3>Tecnologías dominadas</h3>
 
 <p align="center">
-  <a href="https://www.python.org/"><img src="226051.webp" alt="python" width="40"></a>
-  <a href="https://pandas.pydata.org/"><img src="pandas.png" alt="pandas" width="40"></a>
-  <a href="https://numpy.org/"><img src="numpy.png" alt="numpy" width="40"></a>
-  <a href="https://scipy.org/"><img src="scipy.png" alt="scipy" width="40"></a>
+  <a href="https://www.python.org/"><img src="226051.webp" alt="python" height="40" width="40"></a>
+  <a href="https://pandas.pydata.org/"><img src="pandas.png" alt="pandas" height="40" width="40"></a>
+  <a href="https://numpy.org/"><img src="numpy.png" alt="numpy" height="40" width="40"></a>
+  <a href="https://scipy.org/"><img src="scipy.png" alt="scipy" height="40" width="40"></a>
   <a href="https://es.wikipedia.org/wiki/SQL"><img src="sql.png" alt="sql" width="40"></a>
   <a href="https://g.co/kgs/VXUbF4W"><img src="gsheets.png" alt="google sheets" width="40"></a>
   <a href="https://matplotlib.org/"><img src="matplotlib.png" alt="matplotlib" width="40"></a>
