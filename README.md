@@ -8,7 +8,7 @@
   </p>
 <h3>Desarrollo profesional</h3>
   <p>
-Actualmente me encuentro trabajando en proyectos para mi portafolio y adquiriendo nuevos conocimientos sobre <b>Machine Learning y Plataformas Cloud</b>. Proximamente me gustaría aprender <b>Power Bi y Conocimientos de ingeniería de datos</b> para mejorar mis capacidades.
+Actualmente me encuentro trabajando en proyectos para mi portafolio y adquiriendo nuevos conocimientos sobre <b>Machine Learning y Plataformas Cloud</b>. Proximamente me gustaría aprender <b>Power Bi y Conocimientos sobre ingeniería de datos</b> para mejorar mis capacidades.
 </p>
 <h3>Portafolio</h3>
   <p>
@@ -20,21 +20,7 @@ En este perfil están todos los proyectos de análisis de mi portafolio, la mayo
   </p>-->
 <h3>Tecnologías dominadas</h3>
 
-<p align="center">
-  <a href="https://www.python.org/"><img src="226051.webp" alt="python" height="40" width="40"></a>
-  <a href="https://pandas.pydata.org/"><img src="pandas.png" alt="pandas" height="40" width="40"></a>
-  <a href="https://numpy.org/"><img src="numpy.png" alt="numpy" height="40" width="40"></a>
-  <a href="https://scipy.org/"><img src="scipy.png" alt="scipy" height="40" width="40"></a>
-  <a href="https://es.wikipedia.org/wiki/SQL"><img src="sql.png" alt="sql" width="40"></a>
-  <a href="https://g.co/kgs/VXUbF4W"><img src="gsheets.png" alt="google sheets" width="40"></a>
-  <a href="https://matplotlib.org/"><img src="matplotlib.png" alt="matplotlib" width="40"></a>
-  <a href="https://plotly.com/"><img src="plotly.jpg" alt="plotly" width="40"></a>
-  <a href="https://seaborn.pydata.org/"><img src="seaborn.png" alt="seaborn" width="40"></a>
-  <a href="https://jupyter.org/"><img src="jupyter.png" alt="jupyter" width="40"></a>
-  <a href="https://www.tableau.com/"><img src="tableau.png" alt="tableau" width="40"></a>
-  <a href="https://code.visualstudio.com/"><img src="visual-studio-code-icon.webp" alt="vscode" width="40"></a>
-  <a href="https://scikit-learn.org/stable/"><img src="Scikit_learn_logo_small.svg.png" alt="scikit-learn" width="40"></a>
-</p>
+[<img src='226051.webp' alt='python' width='40'>](https://www.python.org/) [<img src='pandas.png' alt='pandas' width='40'>](https://pandas.pydata.org/) [<img src='numpy.png' alt='numpy' width='40'>](https://numpy.org/) [<img src='scipy.png' alt='scipy' width='40'>](https://scipy.org/) [<img src='sql.png' alt='sql' width='40'>](https://es.wikipedia.org/wiki/SQL)  [<img src='gsheets.png' alt='google sheets' width='40'>](https://g.co/kgs/VXUbF4W) [<img src='matplotlib.png' alt='matplotlib' width='40'>](https://matplotlib.org/) [<img src='plotly.jpg' alt='plotly' width='40'>](https://plotly.com/) [<img src='seaborn.png' alt='seaborn' width='40'>](https://seaborn.pydata.org/) [<img src='jupyter.png' alt='jupyter' width='40'>](https://jupyter.org/) [<img src='tableau.png' alt='tableau' width='40'>](https://www.tableau.com/) [<img src='visual-studio-code-icon.webp' alt='vscode' width='40'>](https://code.visualstudio.com/) [<img src='Scikit_learn_logo_small.svg.png' alt='scikit-learn' width='40'>](https://scikit-learn.org/stable/) 
 
 <!-- <h3>Racha actual de contribuciones</h3>
 
