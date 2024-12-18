@@ -50,12 +50,6 @@ En este perfil están todos los proyectos de análisis de mi portafolio, la mayo
       <td>
         <div style="border-bottom: 1px solid #ccc; padding: 5px;">
           Tengo la capacidad de realizar consultas básicas y avanzadas, incluyendo subconsultas, combinaciones de tablas, filtracion y ordenamiento de datos. También, puedo hacer consultas SQL desde Python usando la librería sqlalchemy. Actualmente me encuentro fortaleciendo mis habilidades de ingeniería de datos en este lenguaje.
-        <div style="border-bottom: 1px solid #ccc; padding: 5px;">
-          <strong>Edad:</strong> 30
-        </div>
-        <div style="padding: 5px;">
-          <strong>Ciudad:</strong> Valparaíso
-        </div>
       </td>
     </tr>
   </tbody>
