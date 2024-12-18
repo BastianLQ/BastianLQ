@@ -22,6 +22,10 @@ En este perfil están todos los proyectos de análisis de mi portafolio, la mayo
 
 [<img src='226051.webp' alt='python' width='40'>](https://www.python.org/) [<img src='pandas.png' alt='pandas' width='40'>](https://pandas.pydata.org/) [<img src='numpy.png' alt='numpy' width='40'>](https://numpy.org/) [<img src='scipy.png' alt='scipy' width='40'>](https://scipy.org/) [<img src='sql.png' alt='sql' width='40'>](https://es.wikipedia.org/wiki/SQL)  [<img src='gsheets.png' alt='google sheets' width='40'>](https://g.co/kgs/VXUbF4W) [<img src='matplotlib.png' alt='matplotlib' width='40'>](https://matplotlib.org/) [<img src='plotly.jpg' alt='plotly' width='40'>](https://plotly.com/) [<img src='seaborn.png' alt='seaborn' width='40'>](https://seaborn.pydata.org/) [<img src='jupyter.png' alt='jupyter' width='40'>](https://jupyter.org/) [<img src='tableau.png' alt='tableau' width='40'>](https://www.tableau.com/) [<img src='visual-studio-code-icon.webp' alt='vscode' width='40'>](https://code.visualstudio.com/) [<img src='Scikit_learn_logo_small.svg.png' alt='scikit-learn' width='40'>](https://scikit-learn.org/stable/) 
 
+<td>Hola, soy tu primera celda.</td>
+<td>Soy tu segunda celda.</td>
+<td>Soy tu tercera celda.</td>
+<td>Soy tu cuarta celda.</td>
 <!-- <h3>Racha actual de contribuciones</h3>
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Bastian%20LQ&theme=transparent&hide_border=true&locale=es&mode=weekly&card_width=460&card_height=170&currStreakLabel=000000&sideNums=000000&dates=000000&currStreakNum=000000&fire=39D353&stroke=000000&excludeDaysLabel=000000&sideLabels=000000&ring=39D353&background=E4E2DD" alt="GitHub Streak" /></a> 
