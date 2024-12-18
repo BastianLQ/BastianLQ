@@ -34,7 +34,7 @@ En este perfil están todos los proyectos de análisis de mi portafolio, la mayo
       <td>Python</td>
       <td>
         <div style="border-bottom: 1px solid #ccc; padding: 5px;">
-          Es mi herramienta principal para análisis de datos, con la ayuda de <br>
+          Es mi herramienta principal para análisis de datos, con la ayuda de<br>
           VSCode y Jupyter Notebooks he creado 11 proyectos de analítica avan-<br>
           zada en diversos rubros empresariales, tales como: cadenas de gimna-<br>
           sio, supermercados, startups, industria del gaming y más.
@@ -45,7 +45,8 @@ En este perfil están todos los proyectos de análisis de mi portafolio, la mayo
         </div>
         <div style="padding: 5px;">
           <strong>Tareas realizadas:</strong> Limpieza de datos, Análisis exploratorio(EDA), Visua-<br>
-          lización de datos, Test A/B, Prueba de hipótesis, Cálculo de métricas clave de marketing (CAC, LTV y ROMI)
+          lización de datos, Test A/B, Prueba de hipótesis, Cálculo de métricas clave<br>
+          de marketing (CAC, LTV y ROMI)
         </div>
       </td>
       <td>
