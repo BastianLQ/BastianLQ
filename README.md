@@ -44,7 +44,8 @@ En este perfil están todos los proyectos de análisis de mi portafolio, la mayo
           <strong>Librerías usadas:</strong> Pandas, Numpy, Math, Stats, Scipy, Scikit-learn, 
         </div>
         <div style="padding: 5px;">
-          <strong>Tareas realizadas:</strong> Limpieza de datos, Análisis exploratorio(EDA), Visualización de datos
+          <strong>Tareas realizadas:</strong> Limpieza de datos, Análisis exploratorio(EDA), Visua-<br>
+          lización de datos, Test A/B, Prueba de hipótesis, Cálculo de métricas clave de marketing (CAC, LTV y ROMI)
         </div>
       </td>
       <td>
