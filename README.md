@@ -35,9 +35,7 @@ En este perfil están todos los proyectos de análisis de mi portafolio, la mayo
       <td>
         <div style="border-bottom: 1px solid #ccc; padding: 5px;">
           Es mi herramienta principal para análisis de datos, con la ayuda de<br>
-          VSCode y Jupyter Notebooks he creado 11 proyectos de analítica avan-<br>
-          zada en diversos rubros empresariales, tales como: cadenas de gimnasio,<br>
-          supermercados, startups, industria del gaming y más.
+          VSCode y Jupyter Notebooks he creado 11 proyectos de analítica avanzada en diversos rubros empresariales, tales como: cadenas de gimnasio, supermercados, startups, industria del gaming y más.
         </div>
           <br>
         <div style="border-bottom: 1px solid #ccc; padding: 5px;">
