@@ -40,7 +40,7 @@ En este perfil están todos los proyectos de análisis de mi portafolio, la mayo
           sio, supermercados, startups, industria del gaming y más.
         </div>
         <div style="border-bottom: 1px solid #ccc; padding: 5px;">
-          <strong>Edad:</strong> 25
+          <strong>Librerías usadas:</strong> 25
         </div>
         <div style="padding: 5px;">
           <strong>Ciudad:</strong> Santiago
