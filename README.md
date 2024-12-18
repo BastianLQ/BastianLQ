@@ -30,7 +30,7 @@ En este perfil están todos los proyectos de análisis de mi portafolio, la mayo
         <td>Python</td>
         <td>
           <ul>
-            <li>freeCodeCamp</li>
+            <li list-style: disc>freeCodeCamp</li>
             <li>CSS-Tricks</li>
             <li>Traversy Media</li>
           </ul>
