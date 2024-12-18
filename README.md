@@ -27,10 +27,8 @@ En este perfil están todos los proyectos de análisis de mi portafolio, la mayo
         <td>Experiencias</td>
       </tr>
       <tr>
-        <td>Second row, first cell.</td>
+        <td>Python</td>
         <td>Cell 2.</td>
-        <td>Cell 3.</td>
-        <td>Cell 4.</td>
       </tr>
     </table>
 
