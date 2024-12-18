@@ -45,9 +45,9 @@ En este perfil están todos los proyectos de análisis de mi portafolio, la mayo
         </div>
         <div style="padding: 5px;">
           <strong>Tareas realizadas:</strong> Limpieza de datos, Análisis exploratorio(EDA), Visua-<br>
-          lización de datos, Test A/B, Prueba de hipótesis, Cálculo de métricas cla<br>
-          ve de marketing (CAC, LTV y ROMI) Entrenamiento y selección de modelos de<br>
-          ML y automatización de tareas.
+          lización de datos, Test A/B, Prueba de hipótesis, Cálculo de métricas cla-<br>
+          ve de marketing (CAC, LTV y ROMI) Entrenamiento y selección de mode-<br>
+          los de ML y automatización de tareas.
         </div>
       </td>
       <td>
