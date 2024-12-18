@@ -44,22 +44,6 @@ En este perfil están todos los proyectos de análisis de mi portafolio, la mayo
           <strong>Tareas realizadas:</strong> Limpieza de datos, Análisis exploratorio(EDA), Visualización de datos, Test A/B, Prueba de hipótesis, Cálculo de métricas clave de marketing (CAC, LTV y ROMI), Entrenamiento y selección de modelos de ML y automatización de tareas.
         </div>
       </td>
-      <td>
-        <div style="border-bottom: 1px solid #ccc; padding: 5px;">
-          <strong>Lenguajes:</strong> 
-          <ul>
-            <li>Python</li>
-            <li>SQL</li>
-          </ul>
-        </div>
-        <div style="padding: 5px;">
-          <strong>Herramientas:</strong> 
-          <ul>
-            <li>Tableau</li>
-            <li>Power BI</li>
-          </ul>
-        </div>
-      </td>
     </tr>
     <tr>
       <td>Juan Pérez</td>
