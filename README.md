@@ -23,10 +23,8 @@ En este perfil están todos los proyectos de análisis de mi portafolio, la mayo
 
 <table>
       <tr>
-        <td>Hi, I'm your first cell.</td>
-        <td>I'm your second cell.</td>
-        <td>I'm your third cell.</td>
-        <td>I'm your fourth cell.</td>
+        <td>Tecnología</td>
+        <td>Experiencias</td>
       </tr>
       <tr>
         <td>Second row, first cell.</td>
