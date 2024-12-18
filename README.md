@@ -19,7 +19,7 @@ En este perfil están todos los proyectos de análisis de mi portafolio, la mayo
 En este perfil están todos los proyectos de análisis de mi portafolio, la mayoría están en formato notebook (informe de análisis de datos), puedes ver <a href="https://public.tableau.com/app/profile/basti.n.l.pez/vizzes" target="_blank" rel="noopener noreferrer">aquí</a> los dashboards que he construído en Tableau.
   </p>-->
 
-<h3>Tecnologías dominadas</h3>
+<h3>Portfolio y tecnologías dominadas</h3>
 
 <table border="1" style="border-collapse: collapse; width: 100%; text-align: left;">
   <thead>
