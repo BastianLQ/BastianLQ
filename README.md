@@ -29,11 +29,11 @@ En este perfil están todos los proyectos de análisis de mi portafolio, la mayo
       <tr>
         <td>Python</td>
         <td>
-          <ul list-style: disc>
-            <li list-style: disc>freeCodeCamp</li>
+          <ol>
+            <li>freeCodeCamp</li>
             <li>CSS-Tricks</li>
             <li>Traversy Media</li>
-          </ul>
+          </ol>
         </td>
       </tr>
     </table>
