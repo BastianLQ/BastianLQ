@@ -21,23 +21,6 @@ En este perfil están todos los proyectos de análisis de mi portafolio, la mayo
 
 <h3>Tecnologías dominadas</h3>
 
-<table>
-      <tr>
-        <td>Tecnología</td>
-        <td>Experiencias</td>
-      </tr>
-      <tr>
-        <td>Python</td>
-        <td>
-          <ol>
-            <li>freeCodeCamp</li>
-            <li>CSS-Tricks</li>
-            <li>Traversy Media</li>
-          </ol>
-        </td>
-      </tr>
-    </table>
-
 <table border="1" style="border-collapse: collapse; width: 100%; text-align: left;">
   <thead>
     <tr>
