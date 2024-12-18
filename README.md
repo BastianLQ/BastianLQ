@@ -43,12 +43,12 @@ En este perfil están todos los proyectos de análisis de mi portafolio, la mayo
     <tr>
       <th>Tecnología</th>
       <th>Detalles</th>
-      <th>Habilidades</th>
+      <th>Aprendizaje</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Bastián López</td>
+      <td>Python</td>
       <td>
         <div style="border-bottom: 1px solid #ccc; padding: 5px;">
           <strong>Edad:</strong> 25
