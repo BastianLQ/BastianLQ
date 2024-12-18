@@ -51,6 +51,7 @@ En este perfil están todos los proyectos de análisis de mi portafolio, la mayo
       <td>Python</td>
       <td>
         <div style="border-bottom: 1px solid #ccc; padding: 5px;">
+          holaxdxdxdddx
           <strong>Edad:</strong> 25
         </div>
         <div style="padding: 5px;">
