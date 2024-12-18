@@ -34,8 +34,10 @@ En este perfil están todos los proyectos de análisis de mi portafolio, la mayo
       <td>Python</td>
       <td>
         <div style="border-bottom: 1px solid #ccc; padding: 5px;">
-          Es mi herramienta principal para análisis de datos <br>
-          Con la ayuda de VSCode y Jupyter Notebooks.
+          Es mi herramienta principal para análisis de datos, con la ayuda de <br>
+          VSCode y Jupyter Notebooks he creado 11 proyectos de analítica avan-<br>
+          zada en diversos rubros empresariales, tales como: cadenas de gimna-<br>
+          sio, supermercados, startups, industria del gaming y más.
         </div>
         <div style="border-bottom: 1px solid #ccc; padding: 5px;">
           <strong>Edad:</strong> 25
