@@ -43,6 +43,7 @@ En este perfil están todos los proyectos de análisis de mi portafolio, la mayo
         <div style="border-bottom: 1px solid #ccc; padding: 5px;">
           <strong>Librerías usadas:</strong> Pandas, Numpy, Math, Stats, Scipy, Scikit-learn, 
         </div>
+          <br>
         <div style="padding: 5px;">
           <strong>Tareas realizadas:</strong> Limpieza de datos, Análisis exploratorio(EDA), Visua-<br>
           lización de datos, Test A/B, Prueba de hipótesis, Cálculo de métricas cla-<br>
