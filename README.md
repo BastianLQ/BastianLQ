@@ -42,43 +42,63 @@ En este perfil están todos los proyectos de análisis de mi portafolio, la mayo
   <thead>
     <tr>
       <th>Nombre</th>
+      <th>Detalles</th>
       <th>Habilidades</th>
-      <th>Proyectos</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>Bastián López</td>
       <td>
-        <ul>
-          <li>Python</li>
-          <li>SQL</li>
-          <li>Tableau</li>
-        </ul>
+        <div style="border-bottom: 1px solid #ccc; padding: 5px;">
+          <strong>Edad:</strong> 25
+        </div>
+        <div style="padding: 5px;">
+          <strong>Ciudad:</strong> Santiago
+        </div>
       </td>
       <td>
-        <ul>
-          <li>Visualización de datos</li>
-          <li>Análisis estadístico</li>
-          <li>Dashboards</li>
-        </ul>
+        <div style="border-bottom: 1px solid #ccc; padding: 5px;">
+          <strong>Lenguajes:</strong> 
+          <ul>
+            <li>Python</li>
+            <li>SQL</li>
+          </ul>
+        </div>
+        <div style="padding: 5px;">
+          <strong>Herramientas:</strong> 
+          <ul>
+            <li>Tableau</li>
+            <li>Power BI</li>
+          </ul>
+        </div>
       </td>
     </tr>
     <tr>
       <td>Juan Pérez</td>
       <td>
-        <ul>
-          <li>Excel</li>
-          <li>Power BI</li>
-          <li>SQL</li>
-        </ul>
+        <div style="border-bottom: 1px solid #ccc; padding: 5px;">
+          <strong>Edad:</strong> 30
+        </div>
+        <div style="padding: 5px;">
+          <strong>Ciudad:</strong> Valparaíso
+        </div>
       </td>
       <td>
-        <ul>
-          <li>Reportes automáticos</li>
-          <li>Optimización de procesos</li>
-          <li>Análisis financiero</li>
-        </ul>
+        <div style="border-bottom: 1px solid #ccc; padding: 5px;">
+          <strong>Lenguajes:</strong> 
+          <ul>
+            <li>Java</li>
+            <li>SQL</li>
+          </ul>
+        </div>
+        <div style="padding: 5px;">
+          <strong>Herramientas:</strong> 
+          <ul>
+            <li>Excel</li>
+            <li>Power BI</li>
+          </ul>
+        </div>
       </td>
     </tr>
   </tbody>
