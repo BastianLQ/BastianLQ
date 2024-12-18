@@ -41,7 +41,7 @@ En este perfil están todos los proyectos de análisis de mi portafolio, la mayo
 <table border="1" style="border-collapse: collapse; width: 100%; text-align: left;">
   <thead>
     <tr>
-      <th>Nombre</th>
+      <th>Tecnología</th>
       <th>Detalles</th>
       <th>Habilidades</th>
     </tr>
