@@ -44,7 +44,7 @@ En este perfil están todos los proyectos de análisis de mi portafolio, la mayo
           <strong>Librerías usadas:</strong> Pandas, Numpy, Math, Stats, Scipy, Scikit-learn, 
         </div>
         <div style="padding: 5px;">
-          <strong>Ciudad:</strong> Santiago
+          <strong>Tareas realizadas:</strong> Limpieza de datos, Análisis exploratorio(EDA), Visualización de datos
         </div>
       </td>
       <td>
