@@ -26,7 +26,6 @@ En este perfil están todos los proyectos de análisis de mi portafolio, la mayo
     <tr>
       <th>Tecnología</th>
       <th>Detalles</th>
-      <th>Aprendizaje</th>
     </tr>
   </thead>
   <tbody>
