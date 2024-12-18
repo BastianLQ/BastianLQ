@@ -55,22 +55,6 @@ En este perfil están todos los proyectos de análisis de mi portafolio, la mayo
           <strong>Ciudad:</strong> Valparaíso
         </div>
       </td>
-      <td>
-        <div style="border-bottom: 1px solid #ccc; padding: 5px;">
-          <strong>Lenguajes:</strong> 
-          <ul>
-            <li>Java</li>
-            <li>SQL</li>
-          </ul>
-        </div>
-        <div style="padding: 5px;">
-          <strong>Herramientas:</strong> 
-          <ul>
-            <li>Excel</li>
-            <li>Power BI</li>
-          </ul>
-        </div>
-      </td>
     </tr>
   </tbody>
 </table>
