@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img decoding="async" src="Ghbanner.jpg" width="auto"/>
+  <img decoding="async" src="bannergh.png" width="auto"/>
 </div>
 <br>
 <h3>Sobre mi</h3>
