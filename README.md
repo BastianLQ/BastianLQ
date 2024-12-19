@@ -61,15 +61,11 @@ En este perfil están todos los proyectos de análisis de mi portafolio, la mayo
       <td>Hojas de cálculo (Excel y Google Sheets)</td>
       <td>
         <div style="border-bottom: 1px solid #ccc; padding: 5px;">
-          Es mi herramienta principal para análisis de datos, con la ayuda de VSCode y Jupyter Notebooks he creado 11 proyectos de analítica avanzada en diversos rubros empresariales, tales como: cadenas de gimnasio, supermercados, startups, industria del gaming y más.
-        </div>
-          <br>
-        <div style="border-bottom: 1px solid #ccc; padding: 5px;">
-          <strong>Librerías usadas:</strong> Pandas, Numpy, Math, Stats, Scipy, Scikit-learn, 
+          Es un tipo de herramienta con la que me siento muy cómodo trabajando y en la cual tengo más tiempo de experiencia.
         </div>
           <br>
         <div style="padding: 5px;">
-          <strong>Tareas realizadas:</strong> Limpieza de datos, Análisis exploratorio(EDA), Análisis estadístico, Visualización de datos, Test A/B, Prueba de hipótesis, Cálculo de métricas clave de marketing (CAC, LTV y ROMI), Entrenamiento y selección de modelos de ML y automatización de tareas.
+          <strong>Tareas realizadas:</strong> Pivoteo, Limpieza de datos, Análisis estadístico, Cración de dashboards y Programación con VBA para funciones personalizadas y macros.
         </div>
       </td>
     </tr>
