@@ -82,4 +82,4 @@ Actualmente me encuentro trabajando en proyectos para mi portafolio y adquiriend
 </p>
 
 <h3>Racha actual de contribuciones</h3>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Bastian%20LQ&theme=transparent&hide_border=true&locale=es&mode=weekly&card_width=460&card_height=170&currStreakLabel=000000&sideNums=000000&dates=000000&currStreakNum=000000&fire=39D353&stroke=000000&excludeDaysLabel=000000&sideLabels=000000&ring=39D353&background=E4E2DD" alt="GitHub Streak" /></a> 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Bastian%20LQ&hide_border=true&locale=es&mode=weekly&background=005EBE&stroke=EBEBEB&ring=39D353&fire=39D353&currStreakNum=EBEBEB&sideNums=EBEBEB&currStreakLabel=EBEBEB&sideLabels=EBEBEB&dates=EBEBEB" alt="GitHub Streak" /></a>
