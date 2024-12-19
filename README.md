@@ -69,6 +69,14 @@ En este perfil están todos los proyectos de análisis de mi portafolio, la mayo
         </div>
       </td>
     </tr>
+    <tr>
+      <td>Tableau</td>
+      <td>
+        <div style="border-bottom: 1px solid #ccc; padding: 5px;">
+          Herramienta de reportería con la cual puedo crear diferentes cuadros de mando, segun los requerimientos técnicos y visuales que sean requeridos, obteniendo información desde múltiples fuentes, tales como: Bases de datos, Archivos CSV, Hojas de excel y más.
+        </div>
+      </td>
+    </tr>
   </tbody>
 </table>
 <!-- <h3>Racha actual de contribuciones</h3>
