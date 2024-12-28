@@ -80,6 +80,6 @@ En este perfil están todos los proyectos de análisis de mi portafolio, la mayo
   <p>
 Actualmente me encuentro trabajando en proyectos para mi portafolio y adquiriendo nuevos conocimientos sobre <b>el Ecosistema de Microsoft, Ingeniería de datos y Plataformas Cloud</b>. 
 </p>
-<!--
+
 <h3>Racha actual de contribuciones</h3>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Bastian%20LQ&hide_border=true&border_radius=0&locale=es&mode=weekly&background=33%2C004AAD%2CCB6CE6&stroke=EBEBEB&ring=39D353&fire=39D353&currStreakNum=EBEBEB&sideNums=EBEBEB&currStreakLabel=EBEBEB&sideLabels=EBEBEB&dates=EBEBEB&excludeDaysLabel=EBEBEB" alt="GitHub Streak")
