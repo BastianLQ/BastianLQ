@@ -40,7 +40,7 @@ En este perfil están todos los proyectos de análisis de mi portafolio, la mayo
       </td>
     </tr>
     <tr>
-      <td>SQL</td>
+      <td><a href="https://github.com/BastianLQ?tab=repositories&q=sql&type=&language=&sort=" target="_blank" rel="noopener noreferrer">SQL</a></td>
       <td>
         <div style="border-bottom: 1px solid #ccc; padding: 5px;">
           Tengo la capacidad de realizar consultas básicas y avanzadas, incluyendo subconsultas, combinaciones de tablas, filtracion y ordenamiento de datos. También, puedo hacer consultas SQL desde Python usando la librería sqlalchemy. Actualmente me encuentro fortaleciendo mis habilidades de ingeniería de datos en este lenguaje.
@@ -52,7 +52,7 @@ En este perfil están todos los proyectos de análisis de mi portafolio, la mayo
       </td>
     </tr>
     <tr>
-      <td>Hojas de cálculo (Excel y Google Sheets)</td>
+      <td><a href="https://github.com/BastianLQ?tab=repositories&q=hoja&type=&language=&sort=" target="_blank" rel="noopener noreferrer">Hojas de cálculo</a></td>
       <td>
         <div style="border-bottom: 1px solid #ccc; padding: 5px;">
           Es un tipo de herramienta con la que me siento muy cómodo trabajando y en la cual tengo más tiempo de experiencia. Actualmente estoy aprendiendo a integrar Power Query y Power Pivto a mi lista de herramientas de uso recurrente.
@@ -64,7 +64,7 @@ En este perfil están todos los proyectos de análisis de mi portafolio, la mayo
       </td>
     </tr>
     <tr>
-      <td>Tableau</td>
+      <td><a href="https://github.com/BastianLQ?tab=repositories&q=hoja&type=&language=&sort=" target="_blank" rel="noopener noreferrer">Tableau</a></td>
       <td>
         <div style="border-bottom: 1px solid #ccc; padding: 5px;">
           Herramienta de reportería con la cual puedo crear diferentes cuadros de mando, segun los requerimientos técnicos y visuales que sean requeridos, obteniendo información desde múltiples fuentes, tales como: Bases de datos, Archivos CSV, Hojas de excel y más.
