@@ -13,7 +13,7 @@ En este perfil están todos los proyectos de análisis de mi portafolio, la mayo
 
 <h3>Tecnologías dominadas</h3>
 
-En este perfil están todos los proyectos de análisis de mi portafolio, la mayoría están en formato notebook (informe de análisis de datos)
+En este perfil están todos los proyectos de análisis de mi portafolio, la mayoría están en formato notebook (informe de análisis de datos), haciendo click en la tecnología, podrás ver todos los proyectos en los que la incluyo.
 
 <table border="1" style="border-collapse: collapse; width: 100%; text-align: left;">
   <thead>
