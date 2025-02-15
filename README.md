@@ -55,7 +55,7 @@ En este perfil están todos los proyectos de análisis de mi portafolio, la mayo
       <td><a href="https://github.com/BastianLQ?tab=repositories&q=hoja-de-calculo&type=&language=&sort=" target="_blank" rel="noopener noreferrer">Hojas de cálculo</a></td>
       <td>
         <div style="border-bottom: 1px solid #ccc; padding: 5px;">
-          Es un tipo de herramienta con la que me siento muy cómodo trabajando y en la cual tengo más tiempo de experiencia. Actualmente estoy aprendiendo a integrar Power Query y Power Pivto a mi lista de herramientas de uso recurrente.
+          Es un tipo de herramienta con la que me siento muy cómodo trabajando y en la cual tengo más tiempo de experiencia. Actualmente estoy aprendiendo a integrar Power Query y Power Pivot a mi lista de herramientas de uso recurrente.
         </div>
           <br>
         <div style="padding: 5px;">
